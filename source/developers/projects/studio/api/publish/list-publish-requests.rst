@@ -51,7 +51,7 @@ Response
     {
         "site_id" : "mysite",
         "publish_requests" : [
-            "publish_request" : {
+            {
                 "package_id" : "b13f714d-b533-4828-a1dc-5fd1c972fabb",
                 "environment" : "live",
                 "scheduled_date" : ""2018-07-17T19:57:26+02:00"
@@ -61,7 +61,7 @@ Response
                     "/site/website/search/index.xml"
                 ]
             },
-            "publish_request" : {
+            {
                 "package_id" : "cac0cd99-beaa-4b00-b3b3-f2829cace70a",
                 "environment" : "live",
                 "scheduled_date" : ""2018-07-20T11:24:58+02:00"
